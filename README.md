@@ -32,5 +32,5 @@ This repository contains my solutions for **Advent of Code 2024**, all written i
 ## Daily Solutions
 
 Here are my solutions for each day's challenge:
-
+- [Day 2: Red-Nosed Reports](./day2/)
 - [Day 3: Mull It Over](./day3/)
