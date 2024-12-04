@@ -35,3 +35,4 @@ Here are my solutions for each day's challenge:
 - [Day 1: Historian Hysteria](./day1/)
 - [Day 2: Red-Nosed Reports](./day2/)
 - [Day 3: Mull It Over](./day3/)
+- [Day 4: Ceres Search](./day4/)
