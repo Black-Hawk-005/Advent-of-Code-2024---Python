@@ -1,6 +1,8 @@
 # Advent of Code 2024 - Python 🎄🎅
 
-Welcome to my repository for **Advent of Code 2024**! This year, I’m solving the daily programming puzzles in Python to sharpen my problem-solving and algorithm skills. Each day's puzzle presents a new challenge, and I’m documenting my solutions along the way.
+Welcome to my repository for **Advent of Code 2024**! 
+
+This year, I’m solving the daily programming puzzles in Python to sharpen my problem-solving and algorithm skills. Each day's puzzle presents a new challenge, and I’m documenting my solutions along the way.
 
 ## Table of Contents
 
