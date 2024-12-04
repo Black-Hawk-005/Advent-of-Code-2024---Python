@@ -24,7 +24,7 @@ This repository contains my solutions for **Advent of Code 2024**, all written i
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/advent-of-code-2024-python.git
+   git clone https://github.com/Black-Hawk-005/Advent-of-Code-2024---Python
 2. Navigate to the respective day’s folder.
 3. Run the code for a specific day. For example, for Day 1 - Part1:
 4. ```bash
