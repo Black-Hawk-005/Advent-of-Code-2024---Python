@@ -27,7 +27,7 @@ sum_middle = 0  # Sum of the middle page numbers of valid sequences
 valid = []  # To store sequences that follow the rules
 
 # Parse rules from file
-with open(r"4-rules.txt") as f:
+with open(r"5-rules.txt") as f:
     line = f.readline().strip("\n")
     while line:
         line = line.split("|")
