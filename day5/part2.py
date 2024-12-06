@@ -47,7 +47,7 @@ sum_middle = 0  # Accumulate the sum of middle page numbers from valid sequences
 valid = []  # List of valid sequences
 
 # Parse rules from file
-with open(r"4-rules.txt") as f:
+with open(r"5-rules.txt") as f:
     line = f.readline().strip("\n")
     while line:
         line = line.split("|")
@@ -55,7 +55,7 @@ with open(r"4-rules.txt") as f:
         line = f.readline().strip("\n")
 
 # Parse sequences from file
-with open(r"4-sequence.txt") as f:
+with open(r"5-sequence.txt") as f:
     line = f.readline().strip("\n")
     while line:
         sequences.append(line.split(","))  # Convert sequence line into a list of pages
